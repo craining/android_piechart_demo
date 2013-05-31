@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color1_deepskyblue">#00BFFF</color>
+    <color name="color2_PeachPuff">#FFDAB9</color>
+    <color name="color3_DeepSkyBlue">#00BFFF</color>
+    <color name="color4_Cyan">#00FFFF</color>
+    <color name="color5_SlateBlue">#6A5ACD</color>
+    <color name="color6_LightSeaGreen">#20B2AA</color>
+    <color name="color7_Yellow">#FFFF00</color>
+    <color name="color8_IndianRed">#CD5C5C</color>
+    <color name="color9_DarkGoldenrod">#8B658B</color>
+    <color name="color10_Peru">#CD853F</color>
+    <color name="color11_Beige">#F5F5DC</color>
+    <color name="color12_OrangeRed">#FF4500</color>
+    <color name="color13_Thistle">#D8BFD8</color>
+    <color name="color14_RoyalBlue">#4876FF</color>
+    <color name="color15_Magenta">#FF00FF</color>
+    <color name="color16_Orchid">#FF83FA</color>
+    <color name="color17_Blue">#0000FF</color>
+    <color name="color18_grey">#363636</color>
+    <color name="color19_LightGreen">#90EE90</color>
+    <color name="color20_DarkMagenta">#8B008B</color>
+    <color name="color21_DarkCyan">#008B8B</color>
+    <color name="color22_Yellow">#FFFF00</color>
+    <color name="color23_Green">#00FF00</color>
+    <color name="color24_DarkGreen">#006400</color>
+    <color name="color25_Cyan">#00FFFF</color>
+    <color name="color26_PaleTurquoise">#668B8B</color>
+    <color name="color27_NavyBlue">#000080</color>
+
+</resources>

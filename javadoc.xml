@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -encoding utf-8 &#13;&#10;-charset utf-8" author="true" classpath="D:\Android\sdk16r\tools\support\annotations.jar" destdir="C:\Users\ZGY\Desktop\doc" doctitle="Doc for PieChartView" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.5" sourcefiles="src/com/zgy/piechartview/PieChartView.java,src/com/zgy/piechartview/OnPieChartItemSelectedLinstener.java" sourcepath="gen;src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
